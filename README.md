@@ -8,4 +8,5 @@
 - 🤔 I’m looking for help with rust 
 - 💬 Ask me about Node Js and backend Development
 - 📫 How to reach me: esavwede84@gmail.com
-- ⚡ Fun fact: I have never stayed up all night 
+- ⚡ Fun fact: I have never stayed up all night
+- ☎️ +234 8081848029 
