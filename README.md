@@ -1,8 +1,6 @@
-### Hi there 👋
-
-**Esavwede/Esavwede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋
+## I'm Ogaga, a backend developer
+### I build quality and reliable api's and servers with Node Js
 
 - 🔭 I’m currently working on Cheerp
 - 🌱 I’m currently learning Cloud Computing
