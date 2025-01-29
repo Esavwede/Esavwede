@@ -59,7 +59,7 @@ I'm currently diving deeper into:
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/yourname](https://www.linkedin.com/in/ogaga-esavwede-68a09a18a)
+- **LinkedIn**: [linkedin.com/in/ogaga-esavwede](https://www.linkedin.com/in/ogaga-esavwede-68a09a18a)
 - **Twitter**: [OgagaDotTech](https://x.com/ogagaDotTech)
 - **Email**: ogagaoghene.esavwede@gmail.com
 
