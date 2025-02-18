@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 **Code**: [GitHub]https://github.com/Esavwede/Farmstedi)
 
 
-  ### [tech jobber](https://github.com/esavwede/techjobber-1)
+### [tech jobber](https://github.com/esavwede/techjobber-1)
 **Description**: Tech jobber is a platform that allows recruiters to post jobs and job seekers to apply
 **Tech Stack**: Express.js, Mongo DB, Node Js
 **Highlights**:
