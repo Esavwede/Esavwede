@@ -37,6 +37,15 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 - Deployed on AWS with CI/CD pipelines for seamless updates.  
 **Code**: [GitHub]https://github.com/Esavwede/Farmstedi)
 
+
+  ### [tech jobber](https://github.com/esavwede/techjobber-1)
+**Description**: Tech jobber is a platform that allows recruiters to post jobs and job seekers to apply
+**Tech Stack**: Express.js, Mongo DB, Node Js
+**Highlights**:
+- Designed a secure authentication system using JWT.
+- Deployed on AWS with CI/CD pipelines for seamless updates.  
+**Demo**: [tech jobber](https://techjobber-1.onrender.com) | **Code**: [GitHub](https://github.com/Esavwede/techjobber-1)
+
 ---
 more projects 
 
