@@ -46,6 +46,15 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 - Deployed on AWS with CI/CD pipelines for seamless updates.  
 **Demo**: [tech jobber](https://techjobber-1.onrender.com) | **Code**: [GitHub](https://github.com/Esavwede/techjobber-1)
 
+
+### [tech Uni](https://github.com/esavwede/techjobber-1)
+**Description**: A Static site powered by node js, express, ejs
+**Tech Stack**: Express.js, ejs, Node Js
+**Highlights**:
+- implemented templates 
+- implemented endpoints 
+**Code**: [GitHub](https://github.com/Esavwede/TechUni-project)
+
 ---
 more projects 
 
