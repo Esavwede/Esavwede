@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 **Code**: [GitHub]https://github.com/Esavwede/Farmstedi)
 
 
-### [Cheerp](https://github.com/yourusername/project2](https://github.com/Esavwede/Cheerp)
+### [Cheerp](https://github.com/Esavwede/Cheerp)
 **Description**:  Cheerp is an online chatting application that allows people communicate with each other using real time messaging and chats. 
 **Tech Stack**: Express.js, Mongo DB, Socket.io, JWT, Google AUTH
 **Highlights**:
