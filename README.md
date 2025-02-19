@@ -38,6 +38,18 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 **Code**: [GitHub]https://github.com/Esavwede/Farmstedi)
 
 
+### [Cheerp](https://github.com/yourusername/project2](https://github.com/Esavwede/Cheerp)
+**Description**:  Cheerp is an online chatting application that allows people communicate with each other using real time messaging and chats. 
+**Tech Stack**: Express.js, Mongo DB, Socket.io, JWT, Google AUTH
+**Highlights**:
+- Implemented Live Chats
+- Designed database 
+**Code**: [GitHub](https://github.com/yourusername/project2](https://github.com/Esavwede/Cheerp)
+
+
+https://github.com/Esavwede/Cheerp
+
+
 ### [tech jobber](https://github.com/esavwede/techjobber-1)
 **Description**: Tech jobber is a platform that allows recruiters to post jobs and job seekers to apply
 **Tech Stack**: Express.js, Mongo DB, Node Js
