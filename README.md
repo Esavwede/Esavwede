@@ -43,11 +43,11 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 **Tech Stack**: Express.js, Mongo DB, Socket.io, JWT, Google AUTH
 **Highlights**:
 - Implemented Live Chats
-- Designed database 
+- Designed database
+- Implemented Google Authentication System 
 **Code**: [GitHub](https://github.com/yourusername/project2](https://github.com/Esavwede/Cheerp)
 
 
-https://github.com/Esavwede/Cheerp
 
 
 ### [tech jobber](https://github.com/esavwede/techjobber-1)
