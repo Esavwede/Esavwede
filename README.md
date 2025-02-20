@@ -19,17 +19,17 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 
 ## 🛠️ Projects
 
-### [Interview AI](https://github.com/yourusername/project1)
+### [Interview AI](https://interviewaiafrotech.netlify.app/auth/login)
 **Description**: Interview AI allows job seekers to take realistic job interviews and receive instant feedback on their performance. It also has a learning system which supports quizzes and grading
 **Tech Stack**: Node.js, MongoDB, TypeScript, Docker  
 **Highlights**:
 - designed system
 - implemented features  
-**Demo**: [InterviewAI](https://interviewaiafrotech.netlify.app/) | **Code**: [GitHub](https://github.com/Esavwede/INTERVIEW_AI)
+**Demo**: [InterviewAI](https://interviewaiafrotech.netlify.app/auth/login) | **Code**: [GitHub](https://github.com/Esavwede/INTERVIEW_AI)
 
 ---
 
-### [farmstedi](https://github.com/yourusername/project2)
+### [farmstedi](https://github.com/esavwede/farmstedi)
 **Description**: Farm stedi help farmers detect weather patterns and help them decide on the best crops to cultivate and also gives them the most efficient irrigation schedules
 **Tech Stack**: Express.js, Mongo DB, LLMs  
 **Highlights**:
