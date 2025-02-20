@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 **Highlights**:
 - Designed a secure authentication system using JWT.
 - Deployed on AWS with CI/CD pipelines for seamless updates.  
-**Code**: [GitHub]https://github.com/Esavwede/Farmstedi)
+**Code**: [GitHub](https://github.com/Esavwede/Farmstedi)
 
 
 ### [Cheerp](https://github.com/Esavwede/Cheerp)
@@ -45,7 +45,7 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 - Implemented Live Chats
 - Designed database
 - Implemented Google Authentication System 
-**Code**: [GitHub](https://github.com/yourusername/project2](https://github.com/Esavwede/Cheerp)
+**Code**: [GitHub](https://github.com/Esavwede/Cheerp)
 
 
 
