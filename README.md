@@ -65,7 +65,7 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 **Highlights**:
 - implemented templates 
 - implemented endpoints 
-**Code**: [GitHub](https://github.com/Esavwede/TechUni-project)
+**Demo**: [TechUni](techuni-project-production.up.railway.app)**Code**: [GitHub](https://github.com/Esavwede/TechUni-project)
 
 ---
 more projects 
