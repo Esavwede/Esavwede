@@ -59,13 +59,13 @@ Welcome to my GitHub! I'm passionate about building robust, scalable, and mainta
 **Demo**: [tech jobber](https://techjobber-1.onrender.com) | **Code**: [GitHub](https://github.com/Esavwede/techjobber-1)
 
 
-### [tech Uni](https://github.com/esavwede/techjobber-1)
+### [tech Uni](https://techuni-project-production.up.railway.app)
 **Description**: A Static site powered by node js, express, ejs
 **Tech Stack**: Express.js, ejs, Node Js
 **Highlights**:
 - implemented templates 
 - implemented endpoints 
-**Demo**: [TechUni](https://www.techuni-project-production.up.railway.app)**Code**: [GitHub](https://github.com/Esavwede/TechUni-project)
+**Demo**: [TechUni](https://techuni-project-production.up.railway.app)**Code**: [GitHub](https://github.com/Esavwede/TechUni-project)
 
 ---
 more projects 
